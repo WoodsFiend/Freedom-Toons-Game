@@ -4,12 +4,12 @@
 [Link]: https://woodsfiend.github.io/Freedom-Toons-Game/ 'Freedom Toons Game'
 
 <p align="center">
-  <img width="400" height="400" src="https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true">
+  <span style="display:inline-block; width:400px; height:400px; background-image:url('https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true'); background-size:contain; background-repeat:no-repeat; background-position:center;"></span>
 </p>
 
 <br>
 <p align="center">
-  <a href= "https://woodsfiend.github.io/Freedom-Toons-Game/" 
+  <a href= "https://woodsfiend.github.io/Freedom-Toons-Game/" target="_blank"
     style="background: none; border: none; cursor: pointer;" 
   >
     <img 

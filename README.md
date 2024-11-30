@@ -5,7 +5,7 @@
 
 <p align="center">
     <picture>
-        <img width="400" height="400" src="https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true">
+        <img width="400" height="400" src="https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true"/>
     </picture>
 </p>
 
@@ -25,5 +25,6 @@
 <br>
 <br>
 <br>
+
 ## Disclaimer
 This project is a free prototype game created as a fan work and is not affiliated with Freedom Toons in any way. All rights to Freedom Toons, including its characters, stories, audio, and associated intellectual property, are fully owned by their respective creators. This prototype is intended for personal and educational purposes only and does not seek to monetize or infringe on any copyrights.

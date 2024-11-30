@@ -3,10 +3,16 @@
 [Button Icon]: https://img.shields.io/badge/Installation-EF2D5E?style=for-the-badge&logoColor=white&logo=Files
 [Link]: https://woodsfiend.github.io/Freedom-Toons-Game/ 'Freedom Toons Game'
 
-![alt text](https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true)
+<p align="center">
+  <img width="400" height="400" src="https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true">
+</p>
+
 <br>
+<p align="center">
+    [![Button Click]][Link] 
+</p>
+
 <br>
-[![Button Click]][Link] 
 <br>
 <br>
 ## Disclaimer

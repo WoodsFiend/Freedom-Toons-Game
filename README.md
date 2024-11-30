@@ -9,18 +9,15 @@
 
 <br>
 <p align="center">
-  <button 
+  <a href= "https://woodsfiend.github.io/Freedom-Toons-Game/" 
     style="background: none; border: none; cursor: pointer;" 
-    onmouseover="this.style.backgroundImage='url(https://img.shields.io/badge/Hover_Over_Me!-37a779?style=for-the-badge)'" 
-    onmouseout="this.style.backgroundImage='url(https://img.shields.io/badge/Play_Now!-37a779?style=for-the-badge)'" 
-    onclick="window.location.href='https://woodsfiend.github.io/Freedom-Toons-Game/';"
   >
     <img 
       src="https://img.shields.io/badge/Play_Now!-37a779?style=for-the-badge" 
       alt="Play Now!" 
       style="display: block;"
     />
-  </button>
+  </a>
 </p>
 
 <br>

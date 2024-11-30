@@ -4,7 +4,9 @@
 [Link]: https://woodsfiend.github.io/Freedom-Toons-Game/ 'Freedom Toons Game'
 
 <p align="center">
-  <span style="display:inline-block; width:400px; height:400px; background-image:url('https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true'); background-size:contain; background-repeat:no-repeat; background-position:center;"></span>
+    <picture>
+        <img width="400" height="400" src="https://github.com/WoodsFiend/Freedom-Toons-Game/blob/master/logo.png?raw=true">
+    </picture>
 </p>
 
 <br>
